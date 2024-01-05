@@ -1,4 +1,6 @@
-# Svelte + Vite
+# EnableLink PHS - Lighthouse Resources
+Sayan Chandaroy, Aarush Kandukoori, Kartavya Gaur, Oliver Ding 
+IdeATE project
 
 This template should help get you started developing with Svelte in Vite.
 
